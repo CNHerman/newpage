@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://note.xinfaye.top/"
+  },
+  {
+    "icon": "Heart",
+    "name": "LOVE",
+    "link": "https://love.xinfaye.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.xinfaye.top"
+  },
+  {
+    "icon": "Compass",
+    "name": "导航",
+    "link": "https://nav.xinfaye.top/"
+  },
+  {
+    "icon": "Robot",
+    "name": "AIChat",
+    "link": "https://chat.xinfaye.top/"
+  },
+  {
+    "icon": "UserAstronaut",
+    "name": "头像",
+    "link": "https://avatar.xinfaye.top/"
+  },
+  {
+    "icon": "Gamepad",
+    "name": "游戏",
+    "link": "https://game.xinfaye.top/"
+  },
+  {
+    "icon": "Medapps",
+    "name": "待定",
+    "link": "https://lab.xinfaye.top/"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/CNHerman"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "hhttps://space.bilibili.com/372815771"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "有什么事吗",
+    "url": "https://res.abeim.cn/api/qq/?qq=1807226177"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:hejn0831@163.com"
+  },
+  {
+    "name": "WeChat",
+    "icon": "/images/icon/wechat.png",
+    "tip": "欢迎关注 ~",
+    "url": "https://pic2.ziyuan.wang/2023/05/26/08eda9a4c3b92.jpg"
+  }
+  // {
+  //   "name": "Twitter",
+  //   "icon": "/images/icon/twitter.png",
+  //   "tip": "你懂的 ~",
+  //   "url": "https://twitter.com/iimmsyy"https://pic2.ziyuan.wang/2023/05/26/08eda9a4c3b92.jpg
+  // },
+  // {
+  //   "name": "Telegram",
+  //   "icon": "/images/icon/telegram.png",
+  //   "tip": "你懂的 ~",
+  //   "url": "https://t.me/bottom_user"
+  // }
+]
